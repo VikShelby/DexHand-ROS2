@@ -1,0 +1,8 @@
+setuptools
+torch
+torchvision
+transformers
+opencv-python
+ultralytics
+mediapipe
+pyyaml

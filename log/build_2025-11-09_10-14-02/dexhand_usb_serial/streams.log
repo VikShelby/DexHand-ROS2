@@ -1,0 +1,31 @@
+[0.686s] Invoking command in '/home/vik/dexhand_ws/build/dexhand_usb_serial': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_usb_serial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_usb_serial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_usb_serial/build --no-deps symlink_data
+[0.779s] /home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.779s]   warnings.warn(msg)
+[0.863s] running develop
+[0.871s] Traceback (most recent call last):
+[0.871s]   File "/home/vik/dexhand_ws/build/dexhand_usb_serial/setup.py", line 5, in <module>
+[0.872s]     setup(
+[0.872s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 117, in setup
+[0.872s]     return distutils.core.setup(**attrs)
+[0.872s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 186, in setup
+[0.872s]     return run_commands(dist)
+[0.872s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 202, in run_commands
+[0.873s]     dist.run_commands()
+[0.873s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 1002, in run_commands
+[0.873s]     self.run_command(cmd)
+[0.873s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/dist.py", line 1104, in run_command
+[0.873s]     super().run_command(command)
+[0.873s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 1020, in run_command
+[0.873s]     cmd_obj.ensure_finalized()
+[0.873s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py", line 135, in ensure_finalized
+[0.874s]     self.finalize_options()
+[0.874s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/command/develop.py", line 51, in finalize_options
+[0.874s]     easy_install.finalize_options(self)
+[0.874s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/command/easy_install.py", line 251, in finalize_options
+[0.876s]     'dist_fullname': self.distribution.get_fullname(),
+[0.877s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 275, in get_fullname
+[0.877s]     return _distribution_fullname(self.get_name(), self.get_version())
+[0.877s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 293, in _distribution_fullname
+[0.877s]     canonicalize_version(version, strip_trailing_zero=False),
+[0.877s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'
+[0.890s] Invoked command in '/home/vik/dexhand_ws/build/dexhand_usb_serial' returned '1': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_usb_serial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_usb_serial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_usb_serial/build --no-deps symlink_data

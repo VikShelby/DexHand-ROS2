@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: dexhand_ai
+Version: 1.0.0
+Summary: AI vision and learning for DexHand V1
+Maintainer: user
+Maintainer-email: user@todo.todo
+License: MIT
+Requires-Dist: setuptools
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: transformers
+Requires-Dist: opencv-python
+Requires-Dist: ultralytics
+Requires-Dist: mediapipe
+Requires-Dist: pyyaml

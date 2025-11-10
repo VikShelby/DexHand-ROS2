@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: dexhand_usb_serial
+Version: 0.0.1
+Summary: ROS 2 Package for Connecting to DexHand Firmware Serial Interface via USB 
+Maintainer: Trent Shumay
+Maintainer-email: trent@iotdesignshop.com
+License: CC BY-NC-SA 4.0
+Requires-Dist: setuptools
+Requires-Dist: pyserial

@@ -1,0 +1,30 @@
+running develop
+running egg_info
+creating dexhand_ai.egg-info
+writing dexhand_ai.egg-info/PKG-INFO
+writing dependency_links to dexhand_ai.egg-info/dependency_links.txt
+writing entry points to dexhand_ai.egg-info/entry_points.txt
+writing requirements to dexhand_ai.egg-info/requires.txt
+writing top-level names to dexhand_ai.egg-info/top_level.txt
+writing manifest file 'dexhand_ai.egg-info/SOURCES.txt'
+reading manifest file 'dexhand_ai.egg-info/SOURCES.txt'
+writing manifest file 'dexhand_ai.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vik/dexhand_ws/install/dexhand_ai/lib/python3.10/site-packages/dexhand-ai.egg-link (link to .)
+Installing ai_gesture_bridge script to /home/vik/dexhand_ws/install/dexhand_ai/lib/dexhand_ai
+Installing deploy_policy script to /home/vik/dexhand_ws/install/dexhand_ai/lib/dexhand_ai
+Installing learning_collector script to /home/vik/dexhand_ws/install/dexhand_ai/lib/dexhand_ai
+
+Installed /home/vik/dexhand_ws/build/dexhand_ai
+running symlink_data
+creating /home/vik/dexhand_ws/install/dexhand_ai/share/ament_index
+creating /home/vik/dexhand_ws/install/dexhand_ai/share/ament_index/resource_index
+creating /home/vik/dexhand_ws/install/dexhand_ai/share/ament_index/resource_index/packages
+symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/resource/dexhand_ai -> /home/vik/dexhand_ws/install/dexhand_ai/share/ament_index/resource_index/packages
+symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/package.xml -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai
+creating /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/launch
+symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/launch/full_system.launch.py -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/launch
+symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/launch/vision_sim.launch.py -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/launch
+symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/launch/collect_data.launch.py -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/launch
+creating /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/config
+symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/config/object_gesture_map.yaml -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/config

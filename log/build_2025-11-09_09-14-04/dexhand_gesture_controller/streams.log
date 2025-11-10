@@ -1,0 +1,28 @@
+[0.493s] Invoking command in '/home/vik/dexhand_ws/build/dexhand_gesture_controller': AMENT_PREFIX_PATH=/home/vik/dexhand_ws/install/dexhand_description:/home/vik/dexhand_ws/install/dexhand_usb_serial:/home/vik/dexhand_ws/install/dexhand_gesture_controller:/home/vik/dexhand_ws/install/dexhand_ai:/opt/ros/humble CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_gesture_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_gesture_controller/lib/python3.10/site-packages:/home/vik/dexhand_ws/build/dexhand_description:/home/vik/dexhand_ws/install/dexhand_description/lib/python3.10/site-packages:/home/vik/dexhand_ws/build/dexhand_usb_serial:/home/vik/dexhand_ws/install/dexhand_usb_serial/lib/python3.10/site-packages:/home/vik/dexhand_ws/build/dexhand_gesture_controller:/home/vik/dexhand_ws/install/dexhand_gesture_controller/lib/python3.10/site-packages:/home/vik/dexhand_ws/build/dexhand_ai:/home/vik/dexhand_ws/install/dexhand_ai/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_gesture_controller/build --no-deps symlink_data
+[0.667s] running develop
+[0.778s] running egg_info
+[0.778s] creating dexhand_gesture_controller.egg-info
+[0.787s] writing dexhand_gesture_controller.egg-info/PKG-INFO
+[0.787s] writing dependency_links to dexhand_gesture_controller.egg-info/dependency_links.txt
+[0.787s] writing entry points to dexhand_gesture_controller.egg-info/entry_points.txt
+[0.787s] writing requirements to dexhand_gesture_controller.egg-info/requires.txt
+[0.787s] writing top-level names to dexhand_gesture_controller.egg-info/top_level.txt
+[0.788s] writing manifest file 'dexhand_gesture_controller.egg-info/SOURCES.txt'
+[0.804s] reading manifest file 'dexhand_gesture_controller.egg-info/SOURCES.txt'
+[0.805s] writing manifest file 'dexhand_gesture_controller.egg-info/SOURCES.txt'
+[0.813s] running build_ext
+[0.813s] Creating /home/vik/dexhand_ws/install/dexhand_gesture_controller/lib/python3.10/site-packages/dexhand-gesture-controller.egg-link (link to .)
+[0.813s] Installing gesture_controller script to /home/vik/dexhand_ws/install/dexhand_gesture_controller/lib/dexhand_gesture_controller
+[0.814s] 
+[0.814s] Installed /home/vik/dexhand_ws/build/dexhand_gesture_controller
+[0.814s] running symlink_data
+[0.814s] creating /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/ament_index
+[0.814s] creating /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/ament_index/resource_index
+[0.814s] creating /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/ament_index/resource_index/packages
+[0.814s] symbolically linking /home/vik/dexhand_ws/build/dexhand_gesture_controller/resource/dexhand_gesture_controller -> /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/ament_index/resource_index/packages
+[0.814s] symbolically linking /home/vik/dexhand_ws/build/dexhand_gesture_controller/package.xml -> /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/dexhand_gesture_controller
+[0.815s] creating /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/dexhand_gesture_controller/launch
+[0.815s] symbolically linking /home/vik/dexhand_ws/build/dexhand_gesture_controller/launch/simulation.launch.py -> /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/dexhand_gesture_controller/launch
+[0.815s] creating /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/dexhand_gesture_controller/rviz
+[0.815s] symbolically linking /home/vik/dexhand_ws/build/dexhand_gesture_controller/rviz/simulation.rviz -> /home/vik/dexhand_ws/install/dexhand_gesture_controller/share/dexhand_gesture_controller/rviz
+[0.832s] Invoked command in '/home/vik/dexhand_ws/build/dexhand_gesture_controller' returned '0': AMENT_PREFIX_PATH=/home/vik/dexhand_ws/install/dexhand_description:/home/vik/dexhand_ws/install/dexhand_usb_serial:/home/vik/dexhand_ws/install/dexhand_gesture_controller:/home/vik/dexhand_ws/install/dexhand_ai:/opt/ros/humble CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_gesture_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_gesture_controller/lib/python3.10/site-packages:/home/vik/dexhand_ws/build/dexhand_description:/home/vik/dexhand_ws/install/dexhand_description/lib/python3.10/site-packages:/home/vik/dexhand_ws/build/dexhand_usb_serial:/home/vik/dexhand_ws/install/dexhand_usb_serial/lib/python3.10/site-packages:/home/vik/dexhand_ws/build/dexhand_gesture_controller:/home/vik/dexhand_ws/install/dexhand_gesture_controller/lib/python3.10/site-packages:/home/vik/dexhand_ws/build/dexhand_ai:/home/vik/dexhand_ws/install/dexhand_ai/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_gesture_controller/build --no-deps symlink_data

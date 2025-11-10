@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating dexhand_usb_serial.egg-info
+writing dexhand_usb_serial.egg-info/PKG-INFO
+writing dependency_links to dexhand_usb_serial.egg-info/dependency_links.txt
+writing entry points to dexhand_usb_serial.egg-info/entry_points.txt
+writing requirements to dexhand_usb_serial.egg-info/requires.txt
+writing top-level names to dexhand_usb_serial.egg-info/top_level.txt
+writing manifest file 'dexhand_usb_serial.egg-info/SOURCES.txt'
+reading manifest file 'dexhand_usb_serial.egg-info/SOURCES.txt'
+writing manifest file 'dexhand_usb_serial.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vik/dexhand_ws/install/dexhand_usb_serial/lib/python3.10/site-packages/dexhand-usb-serial.egg-link (link to .)
+Installing usb_serial script to /home/vik/dexhand_ws/install/dexhand_usb_serial/lib/dexhand_usb_serial
+
+Installed /home/vik/dexhand_ws/build/dexhand_usb_serial
+running symlink_data
+creating /home/vik/dexhand_ws/install/dexhand_usb_serial/share/ament_index
+creating /home/vik/dexhand_ws/install/dexhand_usb_serial/share/ament_index/resource_index
+creating /home/vik/dexhand_ws/install/dexhand_usb_serial/share/ament_index/resource_index/packages
+symbolically linking /home/vik/dexhand_ws/build/dexhand_usb_serial/resource/dexhand_usb_serial -> /home/vik/dexhand_ws/install/dexhand_usb_serial/share/ament_index/resource_index/packages
+symbolically linking /home/vik/dexhand_ws/build/dexhand_usb_serial/package.xml -> /home/vik/dexhand_ws/install/dexhand_usb_serial/share/dexhand_usb_serial

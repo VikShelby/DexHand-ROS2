@@ -1,0 +1,2 @@
+[console_scripts]
+usb_serial = dexhand_usb_serial.usb_serial:main

@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+dexhand_usb_serial/__init__.py
+dexhand_usb_serial/usb_serial.py
+dexhand_usb_serial.egg-info/PKG-INFO
+dexhand_usb_serial.egg-info/SOURCES.txt
+dexhand_usb_serial.egg-info/dependency_links.txt
+dexhand_usb_serial.egg-info/entry_points.txt
+dexhand_usb_serial.egg-info/requires.txt
+dexhand_usb_serial.egg-info/top_level.txt
+dexhand_usb_serial.egg-info/zip-safe
+resource/dexhand_usb_serial

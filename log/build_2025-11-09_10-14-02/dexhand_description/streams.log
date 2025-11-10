@@ -1,0 +1,30 @@
+[0.694s] Invoking command in '/home/vik/dexhand_ws/build/dexhand_description': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_description/build --no-deps symlink_data
+[0.790s] /home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.790s]   warnings.warn(msg)
+[0.873s] running develop
+[0.881s] Traceback (most recent call last):
+[0.882s]   File "/home/vik/dexhand_ws/build/dexhand_description/setup.py", line 8, in <module>
+[0.882s]     setup(
+[0.882s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 117, in setup
+[0.882s]     return distutils.core.setup(**attrs)
+[0.882s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 186, in setup
+[0.882s]     return run_commands(dist)
+[0.882s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 202, in run_commands
+[0.884s]     dist.run_commands()
+[0.884s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 1002, in run_commands
+[0.884s]     self.run_command(cmd)
+[0.884s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/dist.py", line 1104, in run_command
+[0.884s]     super().run_command(command)
+[0.884s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 1020, in run_command
+[0.884s]     cmd_obj.ensure_finalized()
+[0.884s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py", line 135, in ensure_finalized
+[0.885s]     self.finalize_options()
+[0.885s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/command/develop.py", line 51, in finalize_options
+[0.885s]     easy_install.finalize_options(self)
+[0.885s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/command/easy_install.py", line 251, in finalize_options
+[0.885s]     'dist_fullname': self.distribution.get_fullname(),
+[0.885s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 275, in get_fullname
+[0.885s]     return _distribution_fullname(self.get_name(), self.get_version())
+[0.885s]   File "/home/vik/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 293, in _distribution_fullname
+[0.885s]     canonicalize_version(version, strip_trailing_zero=False),
+[0.885s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'

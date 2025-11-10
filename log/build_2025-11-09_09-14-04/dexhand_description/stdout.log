@@ -1,0 +1,97 @@
+running develop
+running egg_info
+creating dexhand_description.egg-info
+writing dexhand_description.egg-info/PKG-INFO
+writing dependency_links to dexhand_description.egg-info/dependency_links.txt
+writing requirements to dexhand_description.egg-info/requires.txt
+writing top-level names to dexhand_description.egg-info/top_level.txt
+writing manifest file 'dexhand_description.egg-info/SOURCES.txt'
+reading manifest file 'dexhand_description.egg-info/SOURCES.txt'
+writing manifest file 'dexhand_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/vik/dexhand_ws/install/dexhand_description/lib/python3.10/site-packages/dexhand-description.egg-link (link to .)
+
+Installed /home/vik/dexhand_ws/build/dexhand_description
+running symlink_data
+creating /home/vik/dexhand_ws/install/dexhand_description/share/ament_index
+creating /home/vik/dexhand_ws/install/dexhand_description/share/ament_index/resource_index
+creating /home/vik/dexhand_ws/install/dexhand_description/share/ament_index/resource_index/packages
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/resource/dexhand_description -> /home/vik/dexhand_ws/install/dexhand_description/share/ament_index/resource_index/packages
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/package.xml -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description
+creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/launch
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/launch/display.launch.py -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/launch
+creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-right.gazebo -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-right.xacro -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-left.gazebo -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-right.trans -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-left.xacro -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-left.trans -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/materials.xacro -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-right.urdf -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-left.urdf -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/rviz
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/rviz/urdf.rviz -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/rviz
+creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes
+creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/hand-cover-left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_bulk_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/wrist_upper_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_bulk_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_cmc_a_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/forearm_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/wrist_lower_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_bulk_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/base_link.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_bulk_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_cmc_b_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_bulk_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_bulk_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/wrist_upper_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/hand-cover_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_bulk_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_cmc_a_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/wrist_lower_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/base_link.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/forearm_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_bulk_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_cmc_b_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right

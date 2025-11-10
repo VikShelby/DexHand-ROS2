@@ -1,0 +1,2 @@
+[console_scripts]
+gesture_controller = dexhand_gesture_controller.gesture_controller:main

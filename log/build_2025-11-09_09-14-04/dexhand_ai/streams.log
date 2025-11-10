@@ -1,0 +1,32 @@
+[0.735s] Invoking command in '/home/vik/dexhand_ws/build/dexhand_ai': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_ai/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_ai/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_ai/build --no-deps symlink_data
+[0.915s] running develop
+[1.016s] running egg_info
+[1.016s] creating dexhand_ai.egg-info
+[1.023s] writing dexhand_ai.egg-info/PKG-INFO
+[1.024s] writing dependency_links to dexhand_ai.egg-info/dependency_links.txt
+[1.024s] writing entry points to dexhand_ai.egg-info/entry_points.txt
+[1.024s] writing requirements to dexhand_ai.egg-info/requires.txt
+[1.024s] writing top-level names to dexhand_ai.egg-info/top_level.txt
+[1.024s] writing manifest file 'dexhand_ai.egg-info/SOURCES.txt'
+[1.039s] reading manifest file 'dexhand_ai.egg-info/SOURCES.txt'
+[1.040s] writing manifest file 'dexhand_ai.egg-info/SOURCES.txt'
+[1.048s] running build_ext
+[1.048s] Creating /home/vik/dexhand_ws/install/dexhand_ai/lib/python3.10/site-packages/dexhand-ai.egg-link (link to .)
+[1.048s] Installing ai_gesture_bridge script to /home/vik/dexhand_ws/install/dexhand_ai/lib/dexhand_ai
+[1.049s] Installing deploy_policy script to /home/vik/dexhand_ws/install/dexhand_ai/lib/dexhand_ai
+[1.049s] Installing learning_collector script to /home/vik/dexhand_ws/install/dexhand_ai/lib/dexhand_ai
+[1.049s] 
+[1.049s] Installed /home/vik/dexhand_ws/build/dexhand_ai
+[1.049s] running symlink_data
+[1.049s] creating /home/vik/dexhand_ws/install/dexhand_ai/share/ament_index
+[1.049s] creating /home/vik/dexhand_ws/install/dexhand_ai/share/ament_index/resource_index
+[1.049s] creating /home/vik/dexhand_ws/install/dexhand_ai/share/ament_index/resource_index/packages
+[1.049s] symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/resource/dexhand_ai -> /home/vik/dexhand_ws/install/dexhand_ai/share/ament_index/resource_index/packages
+[1.050s] symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/package.xml -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai
+[1.050s] creating /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/launch
+[1.050s] symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/launch/full_system.launch.py -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/launch
+[1.050s] symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/launch/vision_sim.launch.py -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/launch
+[1.050s] symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/launch/collect_data.launch.py -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/launch
+[1.050s] creating /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/config
+[1.050s] symbolically linking /home/vik/dexhand_ws/build/dexhand_ai/config/object_gesture_map.yaml -> /home/vik/dexhand_ws/install/dexhand_ai/share/dexhand_ai/config
+[1.070s] Invoked command in '/home/vik/dexhand_ws/build/dexhand_ai' returned '0': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_ai/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_ai/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_ai/build --no-deps symlink_data

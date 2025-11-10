@@ -1,0 +1,4 @@
+[console_scripts]
+ai_gesture_bridge = dexhand_ai.ai_gesture_bridge:main
+deploy_policy = dexhand_ai.deploy_policy:main
+learning_collector = dexhand_ai.learning_collector:main

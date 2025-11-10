@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: dexhand_gesture_controller
+Version: 0.0.1
+Summary: A high-level semantic controller for the DexHand
+Maintainer: Trent Shumay
+Maintainer-email: trent@iotdesignshop.com
+License: CC BY-NC-SA 4.0
+Requires-Dist: setuptools

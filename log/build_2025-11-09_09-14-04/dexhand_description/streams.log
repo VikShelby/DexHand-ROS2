@@ -1,0 +1,99 @@
+[0.754s] Invoking command in '/home/vik/dexhand_ws/build/dexhand_description': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_description/build --no-deps symlink_data
+[0.928s] running develop
+[1.028s] running egg_info
+[1.029s] creating dexhand_description.egg-info
+[1.036s] writing dexhand_description.egg-info/PKG-INFO
+[1.036s] writing dependency_links to dexhand_description.egg-info/dependency_links.txt
+[1.037s] writing requirements to dexhand_description.egg-info/requires.txt
+[1.037s] writing top-level names to dexhand_description.egg-info/top_level.txt
+[1.037s] writing manifest file 'dexhand_description.egg-info/SOURCES.txt'
+[1.053s] reading manifest file 'dexhand_description.egg-info/SOURCES.txt'
+[1.053s] writing manifest file 'dexhand_description.egg-info/SOURCES.txt'
+[1.062s] running build_ext
+[1.062s] Creating /home/vik/dexhand_ws/install/dexhand_description/lib/python3.10/site-packages/dexhand-description.egg-link (link to .)
+[1.063s] 
+[1.063s] Installed /home/vik/dexhand_ws/build/dexhand_description
+[1.063s] running symlink_data
+[1.063s] creating /home/vik/dexhand_ws/install/dexhand_description/share/ament_index
+[1.063s] creating /home/vik/dexhand_ws/install/dexhand_description/share/ament_index/resource_index
+[1.063s] creating /home/vik/dexhand_ws/install/dexhand_description/share/ament_index/resource_index/packages
+[1.063s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/resource/dexhand_description -> /home/vik/dexhand_ws/install/dexhand_description/share/ament_index/resource_index/packages
+[1.063s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/package.xml -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description
+[1.063s] creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/launch
+[1.063s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/launch/display.launch.py -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/launch
+[1.064s] creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.064s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-right.gazebo -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.064s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-right.xacro -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.064s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-left.gazebo -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.064s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-right.trans -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.064s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-left.xacro -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.065s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-left.trans -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.065s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/materials.xacro -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.065s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-right.urdf -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.065s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/urdf/dexhand-left.urdf -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/urdf
+[1.065s] creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/rviz
+[1.065s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/rviz/urdf.rviz -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/rviz
+[1.065s] creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes
+[1.066s] creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.066s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.066s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/hand-cover-left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.066s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_bulk_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.066s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.066s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.066s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.066s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/wrist_upper_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.067s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_bulk_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.067s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.067s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.067s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.067s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.067s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_cmc_a_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.067s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.067s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/forearm_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.068s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/wrist_lower_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.068s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.068s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_bulk_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.068s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.068s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.068s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.068s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.068s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.069s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/base_link.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.069s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.069s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/middle_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.069s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/ring_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.069s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/index_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.069s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/pinky_bulk_left_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.069s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/left/thumb_cmc_b_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/left
+[1.070s] creating /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.070s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.070s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.070s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_bulk_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.070s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_bulk_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.070s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.070s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.070s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/wrist_upper_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.071s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/hand-cover_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.071s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_bulk_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.071s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.071s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.071s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.071s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.071s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_cmc_a_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.071s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.072s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/wrist_lower_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.072s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.072s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.072s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.072s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/pinky_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.072s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_mlp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.072s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.073s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/base_link.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.073s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.073s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_plp_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.073s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/forearm_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.073s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/ring_tip_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.073s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/index_knuckle_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.073s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/middle_bulk_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.073s] symbolically linking /home/vik/dexhand_ws/build/dexhand_description/meshes/right/thumb_cmc_b_1.stl -> /home/vik/dexhand_ws/install/dexhand_description/share/dexhand_description/meshes/right
+[1.095s] Invoked command in '/home/vik/dexhand_ws/build/dexhand_description' returned '0': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_description/build --no-deps symlink_data

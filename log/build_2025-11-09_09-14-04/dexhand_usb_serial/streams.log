@@ -1,0 +1,24 @@
+[0.744s] Invoking command in '/home/vik/dexhand_ws/build/dexhand_usb_serial': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_usb_serial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_usb_serial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_usb_serial/build --no-deps symlink_data
+[0.913s] running develop
+[1.013s] running egg_info
+[1.013s] creating dexhand_usb_serial.egg-info
+[1.021s] writing dexhand_usb_serial.egg-info/PKG-INFO
+[1.021s] writing dependency_links to dexhand_usb_serial.egg-info/dependency_links.txt
+[1.021s] writing entry points to dexhand_usb_serial.egg-info/entry_points.txt
+[1.021s] writing requirements to dexhand_usb_serial.egg-info/requires.txt
+[1.021s] writing top-level names to dexhand_usb_serial.egg-info/top_level.txt
+[1.021s] writing manifest file 'dexhand_usb_serial.egg-info/SOURCES.txt'
+[1.037s] reading manifest file 'dexhand_usb_serial.egg-info/SOURCES.txt'
+[1.037s] writing manifest file 'dexhand_usb_serial.egg-info/SOURCES.txt'
+[1.046s] running build_ext
+[1.047s] Creating /home/vik/dexhand_ws/install/dexhand_usb_serial/lib/python3.10/site-packages/dexhand-usb-serial.egg-link (link to .)
+[1.047s] Installing usb_serial script to /home/vik/dexhand_ws/install/dexhand_usb_serial/lib/dexhand_usb_serial
+[1.047s] 
+[1.047s] Installed /home/vik/dexhand_ws/build/dexhand_usb_serial
+[1.047s] running symlink_data
+[1.047s] creating /home/vik/dexhand_ws/install/dexhand_usb_serial/share/ament_index
+[1.047s] creating /home/vik/dexhand_ws/install/dexhand_usb_serial/share/ament_index/resource_index
+[1.048s] creating /home/vik/dexhand_ws/install/dexhand_usb_serial/share/ament_index/resource_index/packages
+[1.048s] symbolically linking /home/vik/dexhand_ws/build/dexhand_usb_serial/resource/dexhand_usb_serial -> /home/vik/dexhand_ws/install/dexhand_usb_serial/share/ament_index/resource_index/packages
+[1.048s] symbolically linking /home/vik/dexhand_ws/build/dexhand_usb_serial/package.xml -> /home/vik/dexhand_ws/install/dexhand_usb_serial/share/dexhand_usb_serial
+[1.079s] Invoked command in '/home/vik/dexhand_ws/build/dexhand_usb_serial' returned '0': CONDA_PROMPT_MODIFIER=(dexhand_ros) PYTHONPATH=/home/vik/dexhand_ws/build/dexhand_usb_serial/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vik/dexhand_ws/install/dexhand_usb_serial/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vik/dexhand_ws/build/dexhand_usb_serial/build --no-deps symlink_data
